@@ -8,4 +8,4 @@ This project contains C++ code that generates a plugin dedicated to the [Linear 
 1. Get the Linear Cell Complex demo from [this repository](https://github.com/gdamiand/cgal/tree/LCC_demo-gdamiand) (not yet in the official repository of CGAL). 
 1. Put all the files of this project in the folder (e.g. IndoorGML2LCC) and put that folder in the **Plugins** folder of the demo.
 1. Compile the CMakeLists.txt of the demo
-1. That's it. You should fine the IndoorGML2LCC plugin button on the GUI of the LCC demo.
+1. That's it. You should find the IndoorGML2LCC plugin button on the GUI of the LCC demo.
