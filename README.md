@@ -10,4 +10,4 @@ This project contains C++ code that generates a plugin dedicated to the [Linear 
 1. Compile the CMakeLists.txt of the demo
 1. That's it. You should find the IndoorGML2LCC plugin button on the GUI of the LCC demo.
 
-<img src="data/img/LCC2.png" alt="LCC_image" width="500"/>
+<img src="data/img/LCC2.png" alt="LCC_image" width="1000"/>
