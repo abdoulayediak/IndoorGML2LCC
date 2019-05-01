@@ -291,7 +291,9 @@ void writeIndoorGML( LCC& alcc, IndoorFeatures& InFt, std::ofstream &outfile )
         }
 
         mydoc.append_node( root );
+
         outfile << mydoc;
+        std::cout << mydoc;
     }
 
     // cleaning the containers to ensure export with RapidXML

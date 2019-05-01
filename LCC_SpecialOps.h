@@ -753,12 +753,11 @@ namespace LCCtools
 
     //                    std::cout << "\nOld point: " << sh << std::endl;
     //                    std::cout << "New point: " << alcc.point(it) << std::endl;
+                    global_shift_pt = Point(x_shift, y_shift, z_shift);
                 }
             }
             else
                 std::cout << "\nNo global shifting required!" << std::endl;
-
-            global_shift_pt = Point(x_shift, y_shift, z_shift);
         }
     }
 
